@@ -8,7 +8,7 @@ export function DetailsForThirdTask() {
 
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
-      <Alert message="Bu birinchi vazida" />
+      <Alert message="Bu birinchi vazifa" />
       <Alert message="Axios, Ant Design, React router dom packagelaridan foydalanilgan" />
       <Alert message="Context API dan foydalanilgan" />
       <Alert
